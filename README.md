@@ -1,5 +1,5 @@
-# SmartBrain-api - v1
-Final project for ZTM course
+# SmartBrain
+Final project for The Zero To Mastery - 2019 course
 
 1. Clone this repo
 2. Run `npm install`
