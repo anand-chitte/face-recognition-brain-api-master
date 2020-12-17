@@ -1,5 +1,5 @@
 # SmartBrain
-Final project for The Zero To Mastery - 2019 course
+Final project for The Complete Web Devloper in 2019 - Zero To Mastery Udemy course
 
 1. Clone this repo
 2. Run `npm install`
